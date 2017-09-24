@@ -7,4 +7,6 @@ image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Mi pasión es resolver un problema llegando a la mejor solución posible uniendo tecnología, negocio y usuario garantizando la mejor experiencia posible. 
+Gracias a haber estudiado diseño y posteriormente innovación en h2i puedo decir que he ido recogiendo muchas metodologías y adaptándolas, lo que hace que tenga una visión global de los proyectos en los que trabajo y una manera de afrontarlos en la que “pienso haciendo” trabajando siempre en un equipo multidisciplinar.
+Actualmente trabajo diseñando productos digitales participando en todas las fases de un proyecto: investigación, diseño de servicios, diseño de interacción diseño visual y cada vez más me involucro en las fases posteriores acompañando a los equipos de desarrollo.
