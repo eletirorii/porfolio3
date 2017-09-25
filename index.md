@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hola, soy Elena, ¿trabajamos juntos?'
+landing-title: 'Hola soy Elena, ¿trabajamos juntos?'
 description: null
 image: null
 author: null
